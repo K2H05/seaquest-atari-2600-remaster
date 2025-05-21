@@ -30,7 +30,7 @@
 ## 📂 Estructura del Proyecto  
 ```plaintext
 .
-├── 📁 assets/          # Recursos (imágenes, sonidos, fuentes)
+├── 📁 asset/          # Recursos (imágenes, sonidos, fuentes)
 │   ├── audio/  
 │   ├── font/  
 │   └── images/  
