@@ -9,6 +9,13 @@
 
 ---
 
+## 👥 Integrante 
+| Nombre | Cédula | Materia | 
+|--------|--------|  
+| Kilber Hernández | V-27.867.062 | Electiva V
+
+---
+
 ## 🛠️ Tecnologías  
 - **Motor**: [LÖVE (Love2D)](https://love2d.org/) (v11.4)  
 - **Lenguaje**: Lua 5.1  
@@ -17,13 +24,6 @@
   - Photoshop (para gráficos)  
   - Audacity (para sonidos y pruebas del mismo...)
   - Biblioteca externas..
-
----
-
-## 👥 Integrantes  
-| Nombre | Cédula |
-|--------|--------|  
-| Kilber Hernández | V-30.406.581 |
 
 ---
 
