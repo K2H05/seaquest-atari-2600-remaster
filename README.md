@@ -16,7 +16,7 @@
   - Visual Studio Code (con extensión Lua)  
   - Photoshop (para gráficos)  
   - Audacity (para sonidos y pruebas del mismo...)
-  - Librerias externas..
+  - Biblioteca externas..
 
 ---
 
@@ -31,14 +31,11 @@
 ```plaintext
 .
 ├── 📁 assets/          # Recursos (imágenes, sonidos, fuentes)
-│   ├── sprites/  
-│   ├── music/  
-│   └── fonts/  
-├── 📁 lib/             # Bibliotecas externas (ej: HUMP, STI)  
+│   ├── audio/  
+│   ├── font/  
+│   └── images/  
+├── 📁 lib/             # Bibliotecas externas
 ├── 📁 src/             # Código fuente  
-│   ├── entities/      # Entidades del juego  
-│   ├── states/        # Estados (menú, juego, pausa)  
-│   └── utils/         # Utilidades (funciones helper)  
 ├── 📄 main.lua        # Punto de entrada  
 ├── 📄 conf.lua        # Configuración del juego  
-└── 📄 README.md       # Este archivo  
+└── 📄 README.md       # Este archivo 
