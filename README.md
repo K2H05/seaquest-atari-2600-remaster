@@ -11,7 +11,7 @@
 
 ## 👥 Integrante 
 | Nombre | Cédula | Materia | 
-|--------|--------|  
+|--------|--------|--------|  
 | Kilber Hernández | V-27.867.062 | Electiva V
 
 ---
